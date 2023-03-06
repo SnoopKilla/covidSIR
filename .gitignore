@@ -1,5 +1,8 @@
 # VSCode settings
 /.vscode
 
+# Gradio flagged
+/.flagged
+
 # Python cache
 __pycache__/
